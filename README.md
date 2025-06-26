@@ -25,7 +25,7 @@ Before running this project, make sure you have:
 - OpenAI API key ([Get one here](https://platform.openai.com/account/api-keys))
 - The following Python libraries:
 - streamlit(pip install streamlit)
-- - openapi(pip install openapi)
+ - openapi(pip install openapi)
   ---
   ## Output:
 
