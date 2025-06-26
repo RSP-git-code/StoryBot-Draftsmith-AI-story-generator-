@@ -35,6 +35,28 @@ Before running this project, make sure you have:
   ---
   
   ## Output:
+  **Prompt 1:**  
+`A time traveler tries to change the fate of someone close
+ **StoryBot Response:**
+ ![image](https://github.com/user-attachments/assets/50f756e1-42b7-4138-876f-b045ab6bb76c)
+ **Prompt 2 :**  
+ Generate a horror story
+  **StoryBot Response:**
+[!image]("https://github.com/user-attachments/assets/bee23037-06c5-485a-a934-c12959ea679e")
+ **Prompt 3 :** 
+Continue the previous story, but now the time machine is gone. Instead, Marcus finds an ancient, magical pocket watch that controls time. Add a thrilling twist something unexpected should happen when he tries to use it again
+   **StoryBot Response:**
+   ![image](https://github.com/user-attachments/assets/3823e6b0-2cb0-48bd-9003-9a311d57318e)
+
+ 
+
+
+
+ 
+ 
+
+ 
+
 
 
 
