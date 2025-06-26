@@ -1,8 +1,8 @@
-# 📚 AI Story Generator (Streamlit + OpenAI)
+# AI Story Generator
 
 This is a simple and interactive AI Story Generator built using Python, Streamlit, and the OpenAI API.  
 The app helps users write creative stories by continuing the story with AI suggestions.  
-Users can type one line at a time, and the model remembers the full conversation to keep the story flowing.
+Users can type one line at a time, and the model generates story according to user's prompt .
 
 ---
 
