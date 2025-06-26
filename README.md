@@ -37,6 +37,7 @@ Before running this project, make sure you have:
   ## Output:
   **Prompt 1:**  
 A time traveler tries to change the fate of someone close
+
  **StoryBot Response:**
  ![image](https://github.com/user-attachments/assets/50f756e1-42b7-4138-876f-b045ab6bb76c)
  
