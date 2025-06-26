@@ -28,10 +28,10 @@ Before running this project, make sure you have:
  - openapi(pip install openapi)
   ---
  ## Documentations:
-  -StorybotDraftsmith Documentation link:
-  
-    Streamlit Documentation: (https://docs.streamlit.io/)
-    OpenAI API Documentation: (https://platform.openai.com/docs/overview)
+
+  - StorybotDraftsmith Documentation link
+   - Streamlit Documentation: (https://docs.streamlit.io/)
+   - OpenAI API Documentation: (https://platform.openai.com/docs/overview)
   ---
   
   ## Output:
