@@ -43,7 +43,8 @@ Before running this project, make sure you have:
  **Prompt 2 :**  
  Generate a horror story
   **StoryBot Response:**
-[!image]("https://github.com/user-attachments/assets/bee23037-06c5-485a-a934-c12959ea679e")
+![image](https://github.com/user-attachments/assets/bb03953e-2311-4725-8f26-dc07390e22ac)
+
 
  **Prompt 3 :** 
 Continue the previous story, but now the time machine is gone. Instead, Marcus finds an ancient, magical pocket watch that controls time. Add a thrilling twist something unexpected should happen when he tries to use it again
