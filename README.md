@@ -30,9 +30,8 @@ Before running this project, make sure you have:
  ## Documentations:
   -StorybotDraftsmith Documentation link:
   
-  -Streamlit Documentation: (https://docs.streamlit.io/)
-
-  -OpenAI API Documentation: (https://platform.openai.com/docs/overview)
+    Streamlit Documentation: (https://docs.streamlit.io/)
+    OpenAI API Documentation: (https://platform.openai.com/docs/overview)
   ---
   
   ## Output:
