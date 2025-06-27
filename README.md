@@ -9,7 +9,7 @@ Users can type one line at a time, and the model generates story according to us
 ## Objective
 
 The goal of this project is to:
-- Allow users to build a story step-by-step
+- Allow users to build a  engaging story with the help of the prompt.
 - Use AI to generate creative and meaningful story responses
 - Maintain conversation history to make the story feel continuous and personalized
 - Provide a simple and fun writing tool for creative users
