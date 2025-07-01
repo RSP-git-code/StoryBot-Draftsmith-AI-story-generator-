@@ -29,7 +29,7 @@ Before running this project, make sure you have:
   ---
  ## Documentations:
 
-  - StorybotDraftsmith Documentation link
+  - StorybotDraftsmith Documentation link:(https://drive.google.com/file/d/1_bv9imXZ-ZJB-1tOsEVu-Idvi-OG449M/view?usp=sharing)
    - Streamlit Documentation: (https://docs.streamlit.io/)
    - OpenAI API Documentation: (https://platform.openai.com/docs/overview)
   ---
